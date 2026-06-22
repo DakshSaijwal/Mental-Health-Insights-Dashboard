@@ -4,7 +4,7 @@ A React + Vite application for visualizing and analyzing global mental health da
 
 ## Author
 
-**Daksh Saijwal** — dakshsaijwal06@gmail.com
+**Daksh Saijwal**
 
 ## Tech Stack
 
